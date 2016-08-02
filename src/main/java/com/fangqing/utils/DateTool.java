@@ -37,16 +37,6 @@ public class DateTool {
      */
     private static final String LAST_DAY_TIME      = " 23:59:59";
 
-    
-    public static void main(String[] args) throws Exception {
-//        SimpleDateFormat ACCURATE_SECONDS = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-//        SimpleDateFormat YYYYMMDDHHMMSS = new SimpleDateFormat("yyyyMMddHHmmss");
-//        System.out.println(ACCURATE_SECONDS.format(forwardMonth(YYYYMMDDHHMMSS.parse("20150601000000"), 1)));
-    	
-    	System.out.println(FileTool.getPolicyOriginTotalFileName());
-    }
-    
-    
     /**
      * @功能   取上个月
      *
