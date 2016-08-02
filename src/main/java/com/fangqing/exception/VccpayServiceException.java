@@ -1,9 +1,12 @@
 package com.fangqing.exception;
 
+
 /**
- * 类VccpayServiceException.java的实现描述：业务异常
- * 
- * @author qiujianfeng 2016年6月7日 下午6:18:37
+ * @功能   业务异常
+ *
+ * @author zhangfangqing 
+ * @date 2016年8月2日 
+ * @time 下午2:24:05
  */
 public class VccpayServiceException extends BaseException {
 

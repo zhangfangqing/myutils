@@ -3,9 +3,11 @@ package com.fangqing.exception;
 import org.springframework.core.NestedRuntimeException;
 
 /**
- * 类BaseException.java的实现描述：TODO 类实现描述
- * 
- * @author qiujianfeng 2016年6月7日 下午6:18:21
+ * @功能  BaseException
+ *
+ * @author zhangfangqing 
+ * @date 2016年8月2日 
+ * @time 下午2:24:31
  */
 public class BaseException extends NestedRuntimeException {
 

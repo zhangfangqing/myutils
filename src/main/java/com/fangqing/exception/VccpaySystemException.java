@@ -1,9 +1,11 @@
 package com.fangqing.exception;
 
 /**
- * 类VccpaySystemException.java的实现描述：系统异常
- * 
- * @author qiujianfeng 2016年6月7日 下午6:24:23
+ * @功能    系统异常
+ *
+ * @author zhangfangqing 
+ * @date 2016年8月2日 
+ * @time 下午2:24:17
  */
 public class VccpaySystemException extends BaseException {
 
